@@ -25,4 +25,4 @@ for (let match of matches) {
   }
 }
 
-console.log("Manchester United Wins " + manUnitedWIns);
+console.log("Manchester United Wins total " + manUnitedWIns);
